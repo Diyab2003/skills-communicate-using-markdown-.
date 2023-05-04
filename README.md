@@ -21,9 +21,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
-## GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
+#### GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
 
-### - **Who is this for**: New developers, new GitHub users, and students.
+#### - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: Use Markdown to add lists, images, and links in a comment or text file.
 - **What you'll build**: We'll update a plain text file and add Markdown formatting, and you can use this file to start your own GitHub Pages site.
 - **Prerequisites**: In this course you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
@@ -44,12 +44,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=My+clone+repository&visibility=public)
 
-### 1. Right-click **Start course** and open the link in a new tab.
-### 2. In the new tab, most of the prompts will automatically fill in for you.
+#### 1. Right-click **Start course** and open the link in a new tab.
+#### 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Scroll down and click the **Create repository** button at the bottom of the form.
-### 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+#### 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 </details>
 
@@ -64,15 +64,15 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 <details id=1 open>
 <summary><h2>Step 1: Add headers</h2></summary>
 
-# _Welcome to "Communicate using Markdown"! :wave:_
+#### _Welcome to "Communicate using Markdown"! :wave:_
 
-## **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+#### **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+#### - Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
 - Files with the `.md` or `.markdown` extension
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
-## **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+#### **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
 
@@ -113,9 +113,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 <details id=2>
 <summary><h2>Step 2: Add an image</h2></summary>
 
-### _Great job adding headers to the file :sparkles:_
+#### _Great job adding headers to the file :sparkles:_
 
-## Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
+#### Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
 ### Example
 
@@ -146,9 +146,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 <details id=3>
 <summary><h2>Step 3: Add a code example</h2></summary>
 
-### _Great job adding an image to the file :tada:_
+#### _Great job adding an image to the file :tada:_
 
-## In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text.
+#### In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text.
 
 ### Example
 
@@ -185,9 +185,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 <details id=4>
 <summary><h2>Step 4: Make a task list</h2></summary>
 
-### _Great job adding a code example to the file :partying_face:_
+#### _Great job adding a code example to the file :partying_face:_
 
-## **What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+#### **What is a _task list_?** A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
 
 ### Example
 
@@ -205,10 +205,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ### :keyboard: Activity: Add a task list
 
-## GitHub Actions went ahead and made a branch for you. So you'll need to add to the file we've created in the branch, and we will check your work as you work through this course!
+#### GitHub Actions went ahead and made a branch for you. So you'll need to add to the file we've created in the branch, and we will check your work as you work through this course!
 
-### 1. Return to your pull request.
-### 1. Use Markdown to create a task list. Here is an example:
+1. Return to your pull request.
+1. Use Markdown to create a task list. Here is an example:
 
    ```md
    - [ ] Turn on GitHub Pages
@@ -216,7 +216,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
    - [ ] Introduce myself to the world
    ```
 
-  ### Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
+      Remember, a task list starts with the syntax `- [ ]` and then the task list item. The formatting is specific!
 
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
@@ -233,14 +233,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
-_Great job adding a task list to the file :heart:_
+#### _Great job adding a task list to the file :heart:_
 
-You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
+#### You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
 ### :keyboard: Activity: Merge your pull request
-
-1. Click **Merge pull request**.
-1. Wait about 20 seconds then refresh this page for the next step.
+#### 1. Click **Merge pull request**.
+#### 1. Wait about 20 seconds then refresh this page for the next step.
 
 </details>
 
@@ -252,11 +251,11 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 <details id=X>
 <summary><h2>Finish</h2></summary>
 
-## _Congratulations friend, you've completed this course!_
+#### _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
-### Here's a recap of all the tasks you've accomplished in your repository:
+#### Here's a recap of all the tasks you've accomplished in your repository:
 
 1. You learned about Markdown, headings, images, code examples, and task lists.
 1. You created and merged a Markdown file.
@@ -264,7 +263,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 
 ### What's next?
 
-- You can enable GitHub Pages and see your Markdown file as a website!
+#### - You can enable GitHub Pages and see your Markdown file as a website!
   1. Under your repository name at the upper right, click :gear: **Settings**.
   1. Then on the lower left, click **Pages** in the **Code and automation** section.
   1. In the **GitHub Pages** section, ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu as your GitHub Pages publishing source.
